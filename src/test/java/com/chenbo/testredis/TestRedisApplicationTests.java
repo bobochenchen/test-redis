@@ -21,7 +21,7 @@ class TestRedisApplicationTests {
         System.out.println("hello git!!!");
         System.out.println("hello git!!!");
         System.out.println("hello git!!!");
-        System.out.println("hello test_branch!!!!!");
+        System.out.println("hello test!!!!!");
 
 
     }
