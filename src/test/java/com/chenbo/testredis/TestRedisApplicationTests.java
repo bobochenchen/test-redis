@@ -20,7 +20,7 @@ class TestRedisApplicationTests {
     void contextLoads() {
         System.out.println("hello git!!!");
         System.out.println("hello git!!!");
-        System.out.println("hello git!!!");
+        System.out.println("hello git!!!!");
 
     }
 
