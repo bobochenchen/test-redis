@@ -120,6 +120,6 @@ public class Single {
     @GetMapping("/test")
     public String test(){
         System.out.println("9");
-        return "success9";
+        return "success tag";
     }
 }
