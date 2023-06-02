@@ -119,7 +119,7 @@ public class Single {
 //    }
     @GetMapping("/test")
     public String test(){
-        System.out.println("4");
-        return "success3";
+        System.out.println("6");
+        return "success6";
     }
 }
