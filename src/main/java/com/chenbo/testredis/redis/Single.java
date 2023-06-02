@@ -119,6 +119,6 @@ public class Single {
 //    }
     @GetMapping("/test")
     public String test(){
-        return "success";
+        return "success 1";
     }
 }
